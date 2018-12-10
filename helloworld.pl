@@ -2,7 +2,7 @@
 
 use strict;
 use warnings;
-use Data::Dumper
+use Data::Dumper;
 
 print "Hello World\n";
 
