@@ -6,6 +6,4 @@ use warnings;
 use Data::Dumper;
 
 say "Hello World\n";
-
-
 1;
