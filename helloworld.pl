@@ -4,5 +4,5 @@ use strict;
 use warnings;
 use Data::Dumper;
 
-print "Hello World\n";
+say "Hello World\n";
 
